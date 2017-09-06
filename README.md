@@ -11,9 +11,10 @@ The dataset contains:
 6. DNA analysis results
 
 ## Proposal
-As part of the [OnlineBrainIntensive](https://www.onlinebrainintensive.com/) course, the main aim of this project is to explore the diffusion tensor images collected as part of the study and correlate the results with behavioural measure. The effects of sleep deprivation on connectivity measures will also be examined.
+As part of the [OnlineBrainIntensive](https://www.onlinebrainintensive.com/) course, the main aim of this project is to explore the DTI data collected as part of the study and correlate the results with behavioural measure. The effects of sleep deprivation on connectivity measures will also be examined.
 
-*Simple project outline*
-![Project plan](https://github.com/ekwiecinska/sleepy-dti/blob/master/figures/project_plan.png?raw=true "Project plan")
+To do this, tools such as [Nipype](http://nipype.readthedocs.io/en/latest/) and [Dipy](http://nipy.org/dipy/) will be used to establish a analysis pipeline. 
 
+![Project plan](https://github.com/ekwiecinska/sleepy-dti/blob/master/figures/project_plan.jpg?raw=true)
+_Initial project outline_
 
