@@ -13,4 +13,7 @@ The dataset contains:
 ## Proposal
 As part of the [OnlineBrainIntensive](https://www.onlinebrainintensive.com/) course, the main aim of this project is to explore the diffusion tensor images collected as part of the study and correlate the results with behavioural measure. The effects of sleep deprivation on connectivity measures will also be examined.
 
+*Simple project outline*
+![Project plan](https://github.com/ekwiecinska/sleepy-dti/blob/master/figures/project_plan.png?raw=true "Project plan")
+
 
